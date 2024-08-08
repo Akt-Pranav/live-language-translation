@@ -19,35 +19,4 @@ A voice recognition-based tool for translating languages in real-time. This tool
 
  ![diagram](docs/media/1-system-architeture.png)
 
-## 04 Setup
 
-- **Step 01:** Navigate to the following directory.
-
-  ```
-   language-translator-bot/docs/requirements.txt
-  ```
-
-- **Step 02:** Run this command to install all dependencies.
-
-  ```
-   pip install -r requirements.txt
-  ```
-
-
-
-## 05 Usage
-
-- **Step 02:** Navigate to the source directory.
-
-  ```
-   language-translator-bot/soruce/main.py
-  ```
-
-
-- **Step 02:** Run this command to launch the app.
-
-  ```
-   streamlit run main.py
-  ```
-
-[2-demo-video.webm](https://github.com/gunarakulangunaretnam/language-translator-bot/assets/45822509/86a26bf0-0500-42e1-a626-497084cc7772)
