@@ -1,4 +1,4 @@
-# Language Translator Bot
+# Live Language Translation
 
 ## 01 Introduction
 
